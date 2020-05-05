@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "765504569532",
+    "firebase_url": "https://iamcool-57ab6.firebaseio.com",
+    "project_id": "iamcool-57ab6",
+    "storage_bucket": "iamcool-57ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765504569532:android:735337b3cea444896250b9",
+        "android_client_info": {
+          "package_name": "com.jmls.iamcool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765504569532-9v2oao4dpck5hvnhjumkvj5kmroo2plv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkO60OBI7equI6TObW5znIL5Qa1aPvlQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765504569532-9v2oao4dpck5hvnhjumkvj5kmroo2plv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
